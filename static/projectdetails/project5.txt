@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 5,
+   "site_name": "Felssicherung Passau B12/B388",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/05_Passau/Passau_tn.jpg",
+   "latitude": 48.575925,
+   "longitude": 13.491889,
+   "category": "Rockfall",
+   "states": "Germany",
+   "criteria": "RXE-1000, RXE-500-LA",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/5_passau.pdf",
+   "inscribed_date": 2017,
+   "extension": 1,
+   "historical_description": "https://projectdetailsjson.netlify.com/acceptance_certificate/5_passau.pdf",
+   "site_url": "https://www.geobrugg.com/de/RXE-1000-Passau-B388-B12-2018-L-DE-102143.pdf",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Die bestehenden Steinschlagschutzzäune entlang der Bundesstrasse und des Radweges mussten erneuert werden. Zudem stellte sich bei der Planung heraus, dass die Energieaufnahmekapazität der Bestandszäune für die zu erwartenden Ereignisse nicht ausreichen würde. Aufgrund der örtlichen Verhältnisse (geringer Abstand zwischen Felswand und Strasse/Radweg) mussten in drei Bereichen spezielle, starre Low-Deflection-Barrieren errrichtet werden.</p>",
+   "region": "South Germany",
+   "revision": 0,
+   "short_description": "Geobrugg unterstützte den Planer bei der Entwurfsplanung und lieferte die Systeme.",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "de",
+   "secondary_dates": 2001
+ }
+}

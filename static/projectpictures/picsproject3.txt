@@ -1,0 +1,40 @@
+﻿{"data":
+[
+  {
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/41064/slider_detail_RXE-3000-Karlstadt-B26-2017-0066600.jpg",
+    "monument_id": 3
+  },
+  {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/41064/slider_detail_RXE-3000-Karlstadt-B26-2017-0066598.jpg",
+    "monument_id": 3
+  },
+  {
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/41064/slider_detail_RXE-3000-Karlstadt-B26-2017-0066603.jpg",
+    "monument_id": 3
+  },
+  {
+    "picture_id": 4,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/41064/slider_detail_RXE-3000-Karlstadt-B26-2017-0066604.jpg",
+    "monument_id": 3
+  },
+  {
+    "picture_id": 5,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/41064/slider_detail_RXE-3000-Karlstadt-B26-2017-0066612.jpg",
+    "monument_id": 3
+  },
+  {
+    "picture_id": 6,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/41064/slider_detail_RXE-3000-Karlstadt-B26-2017-0066602.jpg",
+    "monument_id": 3
+  }
+]
+}

@@ -1,0 +1,34 @@
+﻿{"data":
+[
+  {
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRXE-500-LA-DE-Hollfeld-St2189-1.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 4
+  },
+  {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRXE-500-LA-DE-Hollfeld-St2189-4.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 4
+  },
+  {
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRXE-500-LA-DE-Hollfeld-St2189-11.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 4
+  },
+  {
+    "picture_id": 4,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRXE-500-LA-DE-Hollfeld-St2189-12.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 4
+  },
+  {
+    "picture_id": 5,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRXE-500-LA-DE-Hollfeld-St2189-15.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 4
+  }
+]
+}

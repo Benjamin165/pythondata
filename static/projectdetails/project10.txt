@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 10,
+   "site_name": "Stromeferry",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/10_Stromeferry/Stromeferry_tn.jpg",
+   "latitude": 57.381111,
+   "longitude": -5.475278,
+   "category": "Corrosion",
+   "states": "United Kingdom",
+   "criteria": "TECCO",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "United Kingdom",
+   "revision": 0,
+   "short_description": "The Corrosion Indicator is approximately 150m to the west of the avalanche shelter. It's about 1.5m above road level.",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "uk",
+   "secondary_dates": 2001
+ }
+}

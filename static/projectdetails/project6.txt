@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 6,
+   "site_name": "DB Regensburg",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/06_Regensburg/Regensburg_tn.jpg",
+   "latitude": 49.014222,
+   "longitude": 12.024705,
+   "category": "Rockfall",
+   "states": "Germany",
+   "criteria": "RXE-500-LA, RXE-1000-4",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/6_regensburg.pdf",
+   "inscribed_date": 2017,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "South Germany",
+   "revision": 0,
+   "short_description": "What we did",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "de",
+   "secondary_dates": 2001
+ }
+}

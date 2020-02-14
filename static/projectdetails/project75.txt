@@ -1,0 +1,27 @@
+{"data":
+ {
+   "monument_id": 75,
+   "site_name": "Sardinia",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/75_Sardinia/Sardinia_tn.jpg",
+   "latitude": 38.984186,
+   "longitude": 9.01999,
+   "category": "Smartbox",
+   "states": "Italy",
+   "criteria": "TECCO",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://snapshot.raintank.io/dashboard/snapshot/rhZfBne17HiarzO7fpTTi7G70QOX6oIZ?orgId=2&kiosk&fullscreen&panelId=4",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Italy",
+   "revision": 0,
+   "short_description": "IT0001aP3",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "it",
+   "secondary_dates": 2001
+ }
+}

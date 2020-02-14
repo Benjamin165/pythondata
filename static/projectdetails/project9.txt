@@ -1,0 +1,27 @@
+{"data":
+ {
+   "monument_id": 9,
+   "site_name": "Renke L2",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/09_RenkeL2/RenkeL2_tn.jpg",
+   "latitude": 45.9676131,
+   "longitude": 14.0578409,
+   "category": "Rockfall",
+   "states": "Slovenia",
+   "criteria": "RXE-500",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/9_renke.pdf",
+   "inscribed_date": 2017,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Slovenia",
+   "revision": 0,
+   "short_description": "What we did",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "si",
+   "secondary_dates": 2001
+ }
+}

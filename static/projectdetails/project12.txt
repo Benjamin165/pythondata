@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 12,
+   "site_name": "Lyme Regis",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/12_LymeRegis/lymeregis_tn.JPG",
+   "latitude": 50.727306,
+   "longitude": -2.929167,
+   "category": "Corrosion",
+   "states": "United Kingdom",
+   "criteria": "G65/3 UC",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "United Kingdom",
+   "revision": 0,
+   "short_description": "The Corrosion Indicator can be found close to the stairs",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "uk",
+   "secondary_dates": 2001
+ }
+}

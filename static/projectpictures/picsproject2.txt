@@ -1,0 +1,32 @@
+﻿{"data":
+[
+  {
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2F20181012_132542.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 2  },
+  {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FWP_20170710_11_11_17_Pro_LI.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 2  },
+  {
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FGBE-500A_DE_Oberjoch-B308-16.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 2
+  },
+  {
+    "picture_id": 4,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FGBE-500A_DE_Oberjoch-B308-3.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 2
+  },
+  {
+    "picture_id": 5,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FGBE-500A_DE_Oberjoch-B308-17.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 2
+  }
+]
+}

@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 7,
+   "site_name": "DB Cochem",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/07_Cochem/Cochem_tn.jpg",
+   "latitude": 50.162984,
+   "longitude": 7.181564,
+   "category": "Rockfall",
+   "states": "Germany",
+   "criteria": "RXI-100",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/7_cochem.pdf",
+   "inscribed_date": 2010,
+   "extension": 1,
+   "historical_description": "https://projectdetailsjson.netlify.com/acceptance_certificate/7_cochem.pdf",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "South Germany",
+   "revision": 0,
+   "short_description": "What we did",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "de",
+   "secondary_dates": 2001
+ }
+}

@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 13,
+   "site_name": "Dover Port Kent ",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/13_DoverPortKent/doverport_tn.jpg",
+   "latitude": 51.128417,
+   "longitude": 1.330361,
+   "category": "Corrosion",
+   "states": "United Kingdom",
+   "criteria": "TECCO Stainless",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "United Kingdom",
+   "revision": 0,
+   "short_description": "",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "uk",
+   "secondary_dates": 2001
+ }
+}

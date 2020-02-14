@@ -1,0 +1,27 @@
+﻿{"data":
+[
+  {
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FSPIDER-GBE-RXE_DE_DB-Zachenberg-1.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 1
+  },
+  {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FSPIDER-GBE-RXE_DE_DB-Zachenberg-2.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 1
+  },
+  {
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FSPIDER-GBE-RXE_DE_DB-Zachenberg-3.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 1
+  }, {
+    "picture_id": 4,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FSPIDER-GBE-RXE_DE_DB-Zachenberg-4.jpg&new_max_width=600&new_max_height=400",
+    "monument_id": 1
+  }
+]
+}

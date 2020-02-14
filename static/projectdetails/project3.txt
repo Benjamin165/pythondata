@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 3,
+   "site_name": "Karlstadt B26",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/03_Karlstadt/Karlstadt_tn.jpg",
+   "latitude": 49.992146,
+   "longitude": 9.759026,
+   "category": "Rockfall",
+   "states": "Germany",
+   "criteria": "RXE-3000",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/3_karlstadt.pdf",
+   "inscribed_date": 2017,
+   "extension": 1,
+   "historical_description": "https://projectdetailsjson.netlify.com/acceptance_certificate/3_karlstadt.pdf",
+   "site_url": "https://www.geobrugg.com/de/RXE-3000-Karlstadt-B26-2017-L-DE-42186.pdf",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "Im Bereich des Kalbensteins bedroht Steinschlag die unterhalb vorbeiführende Bundesstrasse sowie die Bahnstrecke. Beim Gestein handelt es sich verwitterungsanfälligen Muschelkalk",
+   "region": "South Germany",
+   "revision": 0,
+   "short_description": "Beratung und Lieferung der Steinschlagschutzzäune.",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "de",
+   "secondary_dates": 2001
+ }
+}

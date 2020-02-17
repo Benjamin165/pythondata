@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 31,
+   "site_name": "Eastside Catchments",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/31_EastsideCatchments/EastsideCatchments_tn.jpg",
+   "latitude": 36.129583,
+   "longitude": -5.342188,
+   "category": "Rockfall",
+   "states": "Gibraltar",
+   "criteria": "RXE-5000",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/31_eastsidecatchments.pdf",
+   "inscribed_date": 2016,
+   "extension": 1,
+   "historical_description": "https://projectdetailsjson.netlify.com/acceptance_certificate/31_eastsidecatchments.pdf",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "Gibraltar",
+   "revision": 0,
+   "short_description": "Short description",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "uk",
+   "secondary_dates": 2001
+ }
+}

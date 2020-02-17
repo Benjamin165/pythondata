@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 45,
+   "site_name": "Ilva-120829-RO",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fromania3_thumbnail.jpg&new_max_width=400&new_max_height=600",
+   "latitude": 47.222837,
+   "longitude": 24.491291,
+   "category": "Rockfall",
+   "states": "Romania",
+   "criteria": "GBE-500A-R",
+   "danger": "",
+   "inscribed_date": 2013,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "Romania",
+   "revision": 0,
+   "short_description": "Short description",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "ro",
+   "secondary_dates": 2001
+ }
+}

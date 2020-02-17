@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 28,
+   "site_name": "Lumahai & Wainiha",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/Placeholder_tn.jpg",
+   "latitude": 22.214222,
+   "longitude": -159.525444,
+   "category": "Corrosion",
+   "states": "USA",
+   "criteria": "G65-4mm, TECCO",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Hawaii",
+   "revision": 0,
+   "short_description": "Project Lumahai & Wainiha Phase 2  7488 HI-TS / Kuhio Highway, North Shore of Kauai, installed on TECCO mesh at east side of 2011 installation, near street sign, about shoulder height",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "us",
+   "secondary_dates": 2001
+ }
+}

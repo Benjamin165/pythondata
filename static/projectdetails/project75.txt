@@ -1,4 +1,4 @@
-{"data":
+﻿{"data":
  {
    "monument_id": 75,
    "site_name": "Sardinia",

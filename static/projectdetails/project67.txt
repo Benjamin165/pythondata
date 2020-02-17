@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 67,
+   "site_name": "Kehlsteinstrasse",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/65_Kehlsteinstrasse/kehlsteinstrasse_tn.jpg",
+   "latitude": 47.6123382,
+   "longitude": 13.0375152,
+   "category": "Smartbox",
+   "states": "Germany",
+   "criteria": "RXI-025",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/vezwb4JZ03At9JgGTf5O5YqSQwDmhli1?orgId=2&kiosk&panelId=4&from=1569650925886&to=1569823725886&var-device=pipn-28cn-6szd-wzqs&var-device=gstd-pni1-95jr-dpqd&var-device=pjfl-rtca-bz6j-ltgz&var-device=nkp7-3pbl-4igg-fttu",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Germany",
+   "revision": 0,
+   "short_description": "DE0003aP3",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "de",
+   "secondary_dates": 2001
+ }
+}

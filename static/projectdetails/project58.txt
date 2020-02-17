@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 58,
+   "site_name": "Heiligenberg",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_tn1.jpg",
+   "latitude": 47.401389,
+   "longitude": 9.325278,
+   "category": "Smartbox",
+   "states": "Germany",
+   "criteria": "RXI-050",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/dJSdj27dtI4kKW21sOLlzryt5ZIzDJTj?orgId=2&kiosk&panelId=4&from=1569649882541&to=1569822682541&var-device=pzyu-wdad-rdq7-x1kd&var-device=z6ir-mcn4-rkxk-2fsr&var-device=tnd7-zfd5-blud-ru6n",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Germany",
+   "revision": 0,
+   "short_description": "DE0002aP3",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "de",
+   "secondary_dates": 2001
+ }
+}

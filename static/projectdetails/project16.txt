@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 16,
+   "site_name": "La Cotte De St. Brellade Jersey",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/16_LaCotteDeStBrellade/lacotte_tn.jpg",
+   "latitude": 49.175333,
+   "longitude": -2.188139,
+   "category": "Corrosion",
+   "states": "United Kingdom",
+   "criteria": "Ultracoated TECCO and GBE-100A-R",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "United Kingdom",
+   "revision": 0,
+   "short_description": "",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "uk",
+   "secondary_dates": 2001
+ }
+}

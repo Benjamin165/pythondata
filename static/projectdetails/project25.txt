@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 25,
+   "site_name": "Piwniczna, Zdrój",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/Placeholder_tn.jpg",
+   "latitude": 49.499483,
+   "longitude": 20.673046,
+   "category": "Corrosion",
+   "states": "Poland",
+   "criteria": "",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Poland",
+   "revision": 0,
+   "short_description": "Location: 33-350 Piwniczna – Zdrój, DK87",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "pl",
+   "secondary_dates": 2001
+ }
+}

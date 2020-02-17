@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 21,
+   "site_name": "Cathedral Rock",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/21_CathedralRock/cathedral_tn.jpg",
+   "latitude": -38.50066,
+   "longitude": 144.006527,
+   "category": "Corrosion",
+   "states": "Australia",
+   "criteria": "DELTAX G80/2",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Australia",
+   "revision": 0,
+   "short_description": "Site No. 16 DELTAX site (Cathedral Rock), Great Ocean rd",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "au",
+   "secondary_dates": 2001
+ }
+}

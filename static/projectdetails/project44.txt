@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 44,
+   "site_name": "DJ105G-120703-RO",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fromania2_thumbnail.JPG&new_max_width=400&new_max_height=600",
+   "latitude": 45.374455,
+   "longitude": 24.34596,
+   "category": "Rockfall",
+   "states": "Romania",
+   "criteria": "GBE-1000A",
+   "danger": "",
+   "inscribed_date": 2014,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "Romania",
+   "revision": 0,
+   "short_description": "Short description",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "ro",
+   "secondary_dates": 2001
+ }
+}

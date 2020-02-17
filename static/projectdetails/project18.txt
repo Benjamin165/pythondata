@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 18,
+   "site_name": "Diana Falls, Hasst Pass",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/18_DianaFalls/dianafalls_tn.jpg",
+   "latitude": -44.052889,
+   "longitude": 169.379889,
+   "category": "Corrosion",
+   "states": "New Zealand",
+   "criteria": "Attenuator",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "New Zealand",
+   "revision": 0,
+   "short_description": "Site No. 12 Diana Falls, Hasst Pass, Sth Island",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "nz",
+   "secondary_dates": 2001
+ }
+}

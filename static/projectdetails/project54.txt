@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 54,
+   "site_name": "Altstätten",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/53_Altstaetten/altstaetten_sb_tn2.jpg",
+   "latitude": 47.2249,
+   "longitude": 9.3202,
+   "category": "Smartbox",
+   "states": "Switzerland",
+   "criteria": "VX-080",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/r5pLFHd5vkP7RQiPnUj1s3WnB4BSulPB?orgId=2&kiosk&panelId=4&from=1569649681667&to=1569822481667&var-device=xfh8-4tk6-d1mx-z3i7&var-device=b5nl-1t38-819t-zn8r",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Switzerland",
+   "revision": 0,
+   "short_description": "CH0001b3",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "ch",
+   "secondary_dates": 2001
+ }
+}

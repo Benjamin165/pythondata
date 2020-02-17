@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 17,
+   "site_name": "Los Ranchos, Copan, Honduras",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/17_LosRanchos/losranchos_tn.jpg",
+   "latitude": 14.929667,
+   "longitude": -88.967,
+   "category": "Corrosion",
+   "states": "Honduras",
+   "criteria": "SL Barrier",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Honduras",
+   "revision": 0,
+   "short_description": "Km 36 (HN), con Occidental road close of Copan ruins. Address: Occidental road, km 36+350, sector Los Ranchos. Copan. Honduras",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "hn",
+   "secondary_dates": 2001
+ }
+}

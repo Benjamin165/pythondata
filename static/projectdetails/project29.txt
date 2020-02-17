@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 29,
+   "site_name": "Abergele",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/29_Abergele/Abergele_tn.jpg",
+   "latitude": 53.2778,
+   "longitude": -3.596865,
+   "category": "Rockfall",
+   "states": "United Kingdom",
+   "criteria": "GBE-500A-R",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/29_abergele.pdf",
+   "inscribed_date": 2016,
+   "extension": 0,
+   "historical_description": "https://projectdetailsjson.netlify.com/acceptance_certificate/29_abergele.pdf",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "United Kingdom",
+   "revision": 0,
+   "short_description": "Short description",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "uk",
+   "secondary_dates": 2001
+ }
+}

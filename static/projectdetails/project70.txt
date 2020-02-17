@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 70,
+   "site_name": "DK87 Piwniczna",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/70_PiwnicznaDK87/PiwnicznaDK87_tn.jpg",
+   "latitude": 49.25571,
+   "longitude": 20.43132,
+   "category": "Smartbox",
+   "states": "Poland",
+   "criteria": "GBE-500A",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/mNoHqDMLuE6GvWasczhl0AyqpUbiApuF?orgId=2&kiosk&panelId=4&from=1570274632586&to=1570447432586&var-device=ql2b-6jq5-eswe-ftnr&var-device=brex-nb3k-at8p-4itw",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Poland",
+   "revision": 0,
+   "short_description": "PL0002aP3",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "pl",
+   "secondary_dates": 2001
+ }
+}

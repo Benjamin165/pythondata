@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 43,
+   "site_name": "RO-070701 DN 7",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fromania1_thumbnail.JPG&new_max_width=400&new_max_height=600",
+   "latitude": 45.173499,
+   "longitude": 24.173775,
+   "category": "Rockfall",
+   "states": "Romania",
+   "criteria": "RXI-2000",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/43_romania1.pdf",
+   "inscribed_date": 2010,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "Romania",
+   "revision": 0,
+   "short_description": "Short description",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "ro",
+   "secondary_dates": 2001
+ }
+}

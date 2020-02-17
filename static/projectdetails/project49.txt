@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 49,
+   "site_name": "Tijuana-Ensenada",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/49_Tijuana/tijuana_tn.jpg",
+   "latitude": 31.929929,
+   "longitude": -116.7527,
+   "category": "Corrosion",
+   "states": "Mexico",
+   "criteria": "TECCO G65/3",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Mexico",
+   "revision": 0,
+   "short_description": "Tijuana-Ensenada Hwy. Ensenada BC",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "hn",
+   "secondary_dates": 2001
+ }
+}

@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 36,
+   "site_name": "Algérie - Cap Aokas",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FAokas-Thumbnail.jpg&new_max_width=400&new_max_height=600",
+   "latitude": 36.644854,
+   "longitude": 5.233310,
+   "category": "Rockfall",
+   "states": "France",
+   "criteria": "RXE-5000, GBE-3000A",
+   "danger": "",
+   "inscribed_date": 2018,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "Béjala",
+   "revision": 0,
+   "short_description": "Part of this work involved the supply and installation of four lines of 3000 kJ GBE rockfall barriers, one RXE-5000 kJ rockfall barrier and the installation of DELTAX® for slope protection. The work was carried out by CAN ALGERIE with the help of a helicopter specially dispatched from France in 2016. In December 2016, blocks from another corridor overlooking the RN9 fell on the road. New protection measures were ordered by the Béjaia DTP and carried out by CAN ALGERIE in 2018 with the installation of three additional GBE-3000 kJ rockfall barriers. Located in a very steep corridor, and out of reach, the installation work was again carried out with a helicopter. GEOP intervened with the company to supply the barriers, assist in the correct installation of the barriers.",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "fr",
+   "secondary_dates": 2001
+ }
+}

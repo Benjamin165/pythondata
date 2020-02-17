@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 26,
+   "site_name": "Skomielna Biala Chabówka",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/26_Skomielna/skomielna_tn.jpg",
+   "latitude": 49.594444,
+   "longitude": 19.931111,
+   "category": "Corrosion",
+   "states": "Poland",
+   "criteria": "SLOPE TECCO",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Poland",
+   "revision": 0,
+   "short_description": "S7 Skomielna Biała Chabówka – DK47 and S7 junction on Rabka bypass",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "pl",
+   "secondary_dates": 2001
+ }
+}

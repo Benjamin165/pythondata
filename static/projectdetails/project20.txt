@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 20,
+   "site_name": "Paddy's Path",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/20_PaddysPath/paddyspath_tn.jpg",
+   "latitude": -38.63325,
+   "longitude": 143.893944,
+   "category": "Corrosion",
+   "states": "Australia",
+   "criteria": "TECCO Stainless",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Australia",
+   "revision": 0,
+   "short_description": "Site No. 15 Paddys Path, Wye River",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "au",
+   "secondary_dates": 2001
+ }
+}

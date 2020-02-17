@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 41,
+   "site_name": "Krościenko-Kłodno",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fpoland1_thumbnail.jpg&new_max_width=400&new_max_height=600",
+   "latitude": 49.477132,
+   "longitude": 20.427773,
+   "category": "Rockfall",
+   "states": "Poland",
+   "criteria": "GBE-500LA",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/41_poland1.pdf",
+   "inscribed_date": 2017,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "Poland",
+   "revision": 0,
+   "short_description": "Short description",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "pl",
+   "secondary_dates": 2001
+ }
+}

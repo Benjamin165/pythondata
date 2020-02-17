@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 22,
+   "site_name": "Marino, Adelaide",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/22_Marino/marino_tn.jpg",
+   "latitude": -35.0491944,
+   "longitude": 138.506555,
+   "category": "Corrosion",
+   "states": "Australia",
+   "criteria": "DELTAX 45/2 SuCo",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Australia",
+   "revision": 0,
+   "short_description": "Site No. 17 Marino, Marino, Adelaide",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "au",
+   "secondary_dates": 2001
+ }
+}

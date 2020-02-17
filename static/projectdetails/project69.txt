@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 69,
+   "site_name": "Piwniczna Wierchomla",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/69_PiwnicznaWierchomla/Piwniczna_tn.jpg",
+   "latitude": 49.21216,
+   "longitude": 20.48428,
+   "category": "Smartbox",
+   "states": "Poland",
+   "criteria": "GBE-500A",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/bW34i58BbfvxRYvLoM42ciobTdqynb9V?orgId=2&kiosk&panelId=4&from=1570274539844&to=1570447339845&var-device=a51d-i2i5-i9gq-u9bq",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Poland",
+   "revision": 0,
+   "short_description": "PL0001aP3",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "pl",
+   "secondary_dates": 2001
+ }
+}

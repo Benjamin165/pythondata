@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 34,
+   "site_name": "Pau - Parc du Château",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FPau-Thumbnail.jpg&new_max_width=400&new_max_height=600",
+   "latitude": 43.295770,
+   "longitude": -0.385696,
+   "category": "Slope",
+   "states": "France",
+   "criteria": "TECCO G65/3",
+   "danger": "",
+   "inscribed_date": 2018,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "France",
+   "revision": 0,
+   "short_description": "Short description",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "fr",
+   "secondary_dates": 2001
+ }
+}

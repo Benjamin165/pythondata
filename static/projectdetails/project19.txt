@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 19,
+   "site_name": "Kaikoura",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/19_Kaikoura/kaikoura_tn.jpg",
+   "latitude": -42.2775,
+   "longitude": 173.778194,
+   "category": "Corrosion",
+   "states": "New Zealand",
+   "criteria": "Several systems",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "New Zealand",
+   "revision": 0,
+   "short_description": "Site No. 14 Kaikoura, Sth Island",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "nz",
+   "secondary_dates": 2001
+ }
+}

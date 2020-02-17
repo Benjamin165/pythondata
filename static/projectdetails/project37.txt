@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 37,
+   "site_name": "Rayol-Canadel sur Mer",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
+   "latitude": 43.164495,
+   "longitude": 6.460386,
+   "category": "Rockfall",
+   "states": "France",
+   "criteria": "GBE-2000A",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "France",
+   "revision": 0,
+   "short_description": "Short description",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "fr",
+   "secondary_dates": 2001
+ }
+}

@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 30,
+   "site_name": "Wisemans Bridge",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/30_WisemansBridge/wisemansbridge_tn.jpg",
+   "latitude": 51.719557,
+   "longitude": -4.689462,
+   "category": "Rockfall",
+   "states": "United Kingdom",
+   "criteria": "GBE-100A-R",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/30_wisemansbridge.pdf",
+   "inscribed_date": 2016,
+   "extension": 0,
+   "historical_description": "https://projectdetailsjson.netlify.com/acceptance_certificate/30_wisemansbridge.pdf",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "United Kingdom",
+   "revision": 0,
+   "short_description": "Short description",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "uk",
+   "secondary_dates": 2001
+ }
+}

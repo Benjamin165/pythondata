@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 27,
+   "site_name": "Levack, Ontario",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/27_Levack/levack_tn.jpg",
+   "latitude": 46.66402,
+   "longitude": -81.363457,
+   "category": "Corrosion",
+   "states": "Canada",
+   "criteria": "MINAX 80/3 SUCO",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Ontario",
+   "revision": 0,
+   "short_description": "Coleman Mine, Levack, Ontario, 4321 level 3, slot E.  In the area where we started our MESHA/MINAX trial.  4321 feet underground.  Near but not on Geobrugg mesh.",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "ca",
+   "secondary_dates": 2001
+ }
+}

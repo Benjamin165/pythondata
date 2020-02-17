@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 68,
+   "site_name": "Wiseman's Bridge",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/68_WisemanSB/WisemansSB_tn.jpg",
+   "latitude": 51.719378,
+   "longitude": -4.689857,
+   "category": "Smartbox",
+   "states": "United Kingdom",
+   "criteria": "GBE-100A-R",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/OiSYrktOOtpXDcfx8CjK37Xi2V7gI2NX?orgId=2&kiosk&panelId=4&from=1570271956502&to=1570444756502&var-device=a43l-ilxn-3gnp-zb59&var-device=j4mx-8w16-62s5-1tup&var-device=lh35-3njx-53it-72wd&var-device=xr9s-gurj-unfk-8nbs",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "United Kingdom",
+   "revision": 0,
+   "short_description": "UK0001aP3",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "uk",
+   "secondary_dates": 2001
+ }
+}

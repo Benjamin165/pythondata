@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 57,
+   "site_name": "Kubel St. Gallen",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/55_Kubel/kubel_sb_tn3.jpg",
+   "latitude": 47.402222,
+   "longitude": 9.324444,
+   "category": "Smartbox",
+   "states": "Switzerland",
+   "criteria": "RXI-025",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/jwa5HFoMQAznLW3vwD8rcSIiVL4OY2iP?orgId=2&kiosk&panelId=4&from=1569649781587&to=1569822581587&var-device=e833-dub5-r63d-af8d&var-device=bgp3-mihq-3kjq-fb6t&var-device=y8w3-2tjz-ie1e-fvps",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Switzerland",
+   "revision": 0,
+   "short_description": "CH0002c3",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "ch",
+   "secondary_dates": 2001
+ }
+}

@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 38,
+   "site_name": "Smerillo",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
+   "latitude": 42.99081,
+   "longitude": 13.451162,
+   "category": "Rockfall",
+   "states": "Italy",
+   "criteria": "RXE-5000",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://www.geobrugg.com/",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>long</p>",
+   "region": "Italy",
+   "revision": 0,
+   "short_description": "Short description",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "it",
+   "secondary_dates": 2001
+ }
+}

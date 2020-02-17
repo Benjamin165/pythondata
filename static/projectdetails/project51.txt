@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 51,
+   "site_name": "Zagorje-Renke",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/50_Zagorje/zagorje_sb_tn2.jpg",
+   "latitude": 46.108169,
+   "longitude": 14.969998,
+   "category": "Smartbox",
+   "states": "Slovenia",
+   "criteria": "RXE-500",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/KaaD9AioZqGjfAUD8pSPFI6VVEdAyP9n?orgId=2&kiosk&panelId=4&from=1569648875525&to=1569821675525&var-device=hgnn-ijlw-qjaj-ngwh&var-device=za7d-sdb3-356q-56ff&var-device=hrt2-eld2-urxa-hfxq",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Slovenia",
+   "revision": 0,
+   "short_description": "SI0001cP3",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "si",
+   "secondary_dates": 2001
+ }
+}

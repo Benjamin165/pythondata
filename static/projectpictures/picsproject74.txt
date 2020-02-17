@@ -1,0 +1,28 @@
+﻿{"data":
+[
+{
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/72_RayolCanadel/RayolCanadel_1.jpg",
+    "monument_id": 74
+    },
+    {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/72_RayolCanadel/RayolCanadel_2.jpg",
+    "monument_id": 74
+    },
+    {
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/72_RayolCanadel/RayolCanadel_3.jpg",
+    "monument_id": 74
+    },
+    {
+    "picture_id": 4,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/72_RayolCanadel/RayolCanadel_4.jpg",
+    "monument_id": 74
+    }
+]
+}

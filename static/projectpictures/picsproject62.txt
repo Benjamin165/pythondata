@@ -1,0 +1,16 @@
+﻿{"data":
+[
+{
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/61_Chant Sura/chantsura_1.jpg",
+    "monument_id": 62
+    },
+    {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/61_Chant Sura/chantsura_2.jpg",
+    "monument_id": 62
+    }
+]
+}

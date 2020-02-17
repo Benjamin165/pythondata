@@ -1,0 +1,22 @@
+﻿{"data":
+[
+  {
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/65977/slider_detail_RXE-500-LA-Passau-B388-B12-2018-0066003.jpg",
+    "monument_id": 5
+  },
+  {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/65977/slider_detail_RXE-500-LA-Passau-B388-B12-2018-0066002.jpg",
+    "monument_id": 5
+  },
+  {
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/65977/slider_detail_RXE-500-LA-Passau-B388-B12-2018-0076424.jpg",
+    "monument_id": 5
+  }
+]
+}

@@ -1,0 +1,16 @@
+﻿{"data":
+[
+{
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/50_Zagorje/zagorje_sb_1.jpg",
+    "monument_id": 51
+    },
+    {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/50_Zagorje/zagorje_sb_2.jpg",
+    "monument_id": 51
+    }
+]
+}

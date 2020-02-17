@@ -1,0 +1,16 @@
+﻿{"data":
+[
+{
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/65_Kehlsteinstrasse/kehlsteinstrasse_1.jpg",
+    "monument_id": 67
+    },
+    {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/65_Kehlsteinstrasse/kehlsteinstrasse_2.jpg",
+    "monument_id": 67
+    }
+]
+}

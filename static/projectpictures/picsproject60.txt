@@ -1,0 +1,28 @@
+﻿{"data":
+[
+{
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg3.jpg",
+    "monument_id": 60
+    },
+    {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_sb_1.jpg",
+    "monument_id": 60
+    },
+    {
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_sb_2.jpg",
+    "monument_id": 60
+    },
+    {
+    "picture_id": 4,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_sb_3.jpg",
+    "monument_id": 60
+    }
+]
+}

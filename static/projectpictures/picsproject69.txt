@@ -1,0 +1,16 @@
+﻿{"data":
+[
+{
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/69_PiwnicznaWierchomla/Piwniczna_1.jpg",
+    "monument_id": 69
+    },
+    {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/69_PiwnicznaWierchomla/Piwniczna_2.jpg",
+    "monument_id": 69
+    }
+]
+}

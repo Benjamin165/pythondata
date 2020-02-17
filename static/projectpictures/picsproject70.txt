@@ -1,0 +1,22 @@
+﻿{"data":
+[
+{
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/70_PiwnicznaDK87/PiwnicznaDK87_1.jpg",
+    "monument_id": 70
+    },
+    {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/70_PiwnicznaDK87/PiwnicznaDK87_2.jpg",
+    "monument_id": 70
+    },
+    {
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/70_PiwnicznaDK87/PiwnicznaDK87_3.jpg",
+    "monument_id": 70
+    }
+]
+}

@@ -1,0 +1,34 @@
+﻿{"data":
+[
+{
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FSylans_1.jpg&new_max_width=400&new_max_height=600",
+    "monument_id": 33
+  },
+  {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FSylans_2.jpg&new_max_width=400&new_max_height=600",
+    "monument_id": 33
+  },
+  {
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FSylans_3.jpg&new_max_width=400&new_max_height=600",
+    "monument_id": 33
+  },
+  {
+    "picture_id": 4,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FSylans_4.jpg&new_max_width=400&new_max_height=600",
+    "monument_id": 33
+  },
+  {
+    "picture_id": 5,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FSylans_5.jpg&new_max_width=400&new_max_height=600",
+    "monument_id": 33
+  }
+]
+}

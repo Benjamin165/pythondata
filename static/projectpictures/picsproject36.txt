@@ -1,0 +1,46 @@
+﻿{"data":
+[
+{
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/72614/slider_detail_DELTAX-G80-2-Cap-Aokas-2018-0072641.jpg",
+    "monument_id": 36
+  },
+  {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/72614/slider_detail_DELTAX-G80-2-Cap-Aokas-2018-0072639.png",
+    "monument_id": 36
+  },
+  {
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/72614/slider_detail_DELTAX-G80-2-Cap-Aokas-2018-0072642.jpg",
+    "monument_id": 36
+  },
+  {
+    "picture_id": 4,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/72614/slider_detail_DELTAX-G80-2-Cap-Aokas-2018-0072643.jpg",
+    "monument_id": 36
+  },
+  {
+    "picture_id": 5,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/72614/slider_detail_DELTAX-G80-2-Cap-Aokas-2018-0072645.JPG",
+    "monument_id": 36
+  },
+  {
+    "picture_id": 6,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/72614/slider_detail_DELTAX-G80-2-Cap-Aokas-2018-0072646.JPG",
+    "monument_id": 36
+  },
+  {
+    "picture_id": 7,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/72614/slider_detail_DELTAX-G80-2-Cap-Aokas-2018-0072647.JPG",
+    "monument_id": 36
+  }
+]
+}

@@ -1,0 +1,26 @@
+﻿{"data":
+[
+  {
+    "picture_id": 1,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/4628/slider_detail_GREENAX-Dornburg-L-2303-2013-0004629.jpg",
+    "monument_id": 8
+  },
+  {
+    "picture_id": 2,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/4628/slider_detail_RXI-300-Dornburg-L-2303-2013-0004630.jpg",
+    "monument_id": 8
+  },{
+    "picture_id": 3,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/4628/slider_detail_RXI-300-Dornburg-L-2303-2013-0004631.jpg",
+    "monument_id": 8
+  },{
+    "picture_id": 4,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/4628/slider_detail_RXI-300-Dornburg-L-2303-2013-0004632.jpg",
+    "monument_id": 8
+  }
+]
+}
